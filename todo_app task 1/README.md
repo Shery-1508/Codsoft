@@ -8,10 +8,13 @@ The Todo List App is a Flutter-based mobile application designed to help users m
 
 **Screenshots**:
 
-<img src="screenshots/white_theme.jpeg" width="200" height="400" />
-<img src="screenshots/black_theme.jpeg" width="200" height="400" />
-<img src="screenshots/black_theme_drawer.jpeg" width="200" height="400" />
-<img src="screenshots/addingtasks.jpeg" width="200" height="400" />
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/white_theme.jpeg" width="200" height="400" style="margin-right: 10px;" />
+  <img src="screenshots/black_theme.jpeg" width="200" height="400" style="margin-right: 10px;" />
+  <img src="screenshots/black_theme_drawer.jpeg" width="200" height="400" style="margin-right: 10px;" />
+  <img src="screenshots/addingtasks.jpeg" width="200" height="400" />
+</div>
+
 
 
 **Download**:
