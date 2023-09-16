@@ -27,6 +27,7 @@ The Todo List App is a Flutter-based mobile application designed to help users m
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
+    - [Plgins](#plugins-used)
     - [Installation](#installation)
 3. [Features](#features)
     - [Adding Tasks](#adding-tasks)
@@ -55,9 +56,10 @@ Before you can run the Todo List App, make sure you have the following prerequis
 ### Plugins Used
 The Todo List App utilizes the following Flutter plugins:
 
-- shared_preferences: Version 2.0.8. This plugin is used for storing and retrieving user preferences, such as theme settings and task data persistence.
-- provider: Version 6.0.1. Provider is used for state management, allowing widgets to access and update app-wide data efficiently.
-- intl: Version 0.17.0. The intl package is used for internationalization and localization in the app, enabling support for multiple languages.
+- [shared_preferences](https://pub.dev/packages/shared_preferences): Version 2.0.8. This plugin is used for storing and retrieving user preferences, such as theme settings and task data persistence.
+- [provider](https://pub.dev/packages/provider): Version 6.0.1. Provider is used for state management, allowing widgets to access and update app-wide data efficiently.
+- [intl](https://pub.dev/packages/intl): Version 0.17.0. The intl package is used for internationalization and localization in the app, enabling support for multiple languages.
+
 
 ### Installation
 
