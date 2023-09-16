@@ -8,10 +8,10 @@ The Todo List App is a Flutter-based mobile application designed to help users m
 
 **Screenshots**:
 
-![Screenshot 1](./screenshots/white_theme.png)
-![Screenshot 1](./screenshots/black_theme.png)
-![Screenshot 1](./screenshots/black_theme_drawer.png)
-![Screenshot 1](./screenshots/addingtasks.png)
+![Screenshot 1](screenshots/white_theme.jpeg)
+![Screenshot 1](screenshots/black_theme.jpeg)
+![Screenshot 1](screenshots/black_theme_drawer.jpeg)
+![Screenshot 1](screenshots/addingtasks.jpeg)
 
 **Download**:
 
