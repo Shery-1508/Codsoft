@@ -149,17 +149,7 @@ We welcome contributions from the community! If you find a bug, have an idea for
 
 This project is open-source and available under the [MIT License](LICENSE). You are free to use and modify the code according to your needs.
 
-## Screenshots
 
-### Screenshot 1
-
-![Screenshot 1](insert-screenshot-1-link-here)
-
-### Screenshot 2
-
-![Screenshot 2](insert-screenshot-2-link-here
-
-)
 
 ## Download
 
@@ -172,6 +162,8 @@ You can download the Android version of the Todo List App from [here](insert-and
 You can access the web version of the Todo List App from [here](insert-web-version-link-here).
 
 ---
+
+
 
 Thank you for using the Todo List App! If you have any questions or need further assistance, please don't hesitate to contact us.
 
