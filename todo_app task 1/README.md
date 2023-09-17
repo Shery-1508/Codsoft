@@ -19,7 +19,9 @@ The Todo List App is a Flutter-based mobile application designed to help users m
 
 **Download**:
 
-- [Android App](#android-app)
+- [Android App](https://cssduet.acm.org/apps_shery/todo_app.apk)
+
+  (web version not ready yet )
 - [Web Version](#web-version)
 
 ## Table of Contents
@@ -155,7 +157,7 @@ This project is open-source and available under the [MIT License](LICENSE). You 
 
 ### Android App
 
-You can download the Android version of the Todo List App from [here](insert-android-app-link-here).
+You can download the Android version of the Todo List App from [here](https://cssduet.acm.org/apps_shery/todo_app.apk).
 
 ### Web Version
 
