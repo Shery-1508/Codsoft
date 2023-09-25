@@ -126,11 +126,11 @@ This project is open-source and available under the [MIT License](LICENSE). You 
 
 ### Android App
 
-You can download the Android version of the Quote of the Day App from [here](#) (Replace with your APK link).
+You can download the Android version of the Quote of the Day App from [here](https://cssduet.acm.org/apps_shery/QuoteApp.apk)
 
 ### Windows App
 
-You can download the Windows version of the Quote of the Day App from [here](#) (Replace with your Windows app link).
+You can download the Windows version of the Quote of the Day App from [here](https://cssduet.acm.org/apps_shery/QuoteApp.rar)
 
 ---
 
