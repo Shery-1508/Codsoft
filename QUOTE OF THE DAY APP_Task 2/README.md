@@ -60,9 +60,8 @@ The Quote of the Day App utilizes the following Flutter plugins:
 1. Clone the repository from GitHub:
 
    ```bash
-git clone https://github.com/Shery-1508/Codsoft.git
+   git clone https://github.com/Shery-1508/Codsoft.git
    ```
-
 
 ## Features
 
