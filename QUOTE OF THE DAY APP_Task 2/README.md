@@ -63,23 +63,6 @@ The Quote of the Day App utilizes the following Flutter plugins:
 git clone https://github.com/Shery-1508/Codsoft.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd quote-app
-   ```
-
-3. Install the required dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the app on an emulator or physical device:
-
-   ```bash
-   flutter run
-   ```
 
 ## Features
 
