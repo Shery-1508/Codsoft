@@ -7,11 +7,11 @@ The Quote of the Day App is a Flutter-based mobile application that delivers a d
 **Screenshots**:
 
 <div style="display: flex; justify-content: center;">
-  <img src="screenshots/quote.jpeg" width="200" height="400" style="margin-right: 10px;" />
-  <img src="screenshots/quote liked.jpeg" width="200" height="400" style="margin-right: 10px;" />
-  <img src="screenshots/drawer.jpeg" width="200" height="400" style="margin-right: 10px;" />
-  <img src="screenshots/favscreen.jpeg" width="200" height="400" style="margin-right: 10px;" />
-  <img src="screenshots/share.jpeg" width="200" height="400" />
+  <img src="screenshots/quote.jpeg" width="150" height="300" style="margin-right: 15px;" />
+  <img src="screenshots/quote liked.jpeg" width="150" height="300" style="margin-right: 15px;" />
+  <img src="screenshots/drawer.jpeg" width="150" height="300" style="margin-right: 15px;" />
+  <img src="screenshots/favscreen.jpeg" width="150" height="300" style="margin-right: 15px;" />
+  <img src="screenshots/share.jpeg" width="150" height="300" />
 </div>
 
 **Download**:
