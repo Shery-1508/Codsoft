@@ -15,8 +15,8 @@ The Quote of the Day App is a Flutter-based mobile application that delivers a d
 
 **Download**:
 
-- [Android App](#) (https://cssduet.acm.org/apps_shery/QuoteApp.apk)
-- [Windows App](#) (https://cssduet.acm.org/apps_shery/QuoteApp.rar)
+- [Android App](https://cssduet.acm.org/apps_shery/QuoteApp.apk)
+- [Windows App](https://cssduet.acm.org/apps_shery/QuoteApp.rar)
 
 ## Table of Contents
 
