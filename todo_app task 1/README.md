@@ -1,5 +1,3 @@
-Certainly! Here's a more detailed documentation for your Todo List App, including links to screenshots and download options for Android and a web version:
-
 # Todo_List App Documentation
 
 ## Overview
